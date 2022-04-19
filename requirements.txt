@@ -1,0 +1,10 @@
+pybgpstream~=2.0.2
+cymruwhois~=1.6
+pandas~=1.3.3
+selenium~=3.141.0
+beautifulsoup4~=4.10.0
+mrtparse~=2.0.1
+requests~=2.27.1
+matplotlib~=3.4.3
+pyasn~=1.6.1
+tqdm~=4.64.0

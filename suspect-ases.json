@@ -1,0 +1,101 @@
+{
+  "as_list":
+  [
+    {
+      "company_name": "Rakuten Mobile",
+      "asn": "23720"
+    },
+    {
+      "company_name": "Indosat Ooredoo",
+      "asn": "4761"
+    },
+    {
+      "company_name": "NTT DOCOMO",
+      "asn": "9605"
+    },
+    {
+      "company_name": "Iliad",
+      "asn": "299447"
+    },
+    {
+      "company_name": "Iliad",
+      "asn": "12876"
+    },
+    {
+      "company_name": "SoftBank",
+      "asn": "4725"
+    },
+    {
+      "company_name": "SoftBank",
+      "asn": "17676"
+    },
+    {
+      "company_name": "Bell Canada",
+      "asn": "577"
+    },
+    {
+      "company_name": "China Telecom",
+      "asn": "4816"
+    },
+    {
+      "company_name": "China Telecom",
+      "asn": "4812"
+    },
+    {
+      "company_name": "China Telecom",
+      "asn": "4835"
+    },
+    {
+      "company_name": "China Telecom",
+      "asn": "4811"
+    },
+    {
+      "company_name": "China Telecom",
+      "asn": "140083"
+    },
+    {
+      "company_name": "LINE Corporation",
+      "asn": "38631"
+    },
+    {
+      "company_name": "China Unicom",
+      "asn": "17816"
+    },
+    {
+      "company_name": "China Unicom",
+      "asn": "133119"
+    },
+    {
+      "company_name": "China Unicom",
+      "asn": "4808"
+    },
+    {
+      "company_name": "China Unicom",
+      "asn": "17621"
+    },
+    {
+      "company_name": "CERNET2",
+      "asn": "23910"
+    },
+    {
+      "company_name": "CERNET2",
+      "asn": "24355"
+    },
+    {
+      "company_name": "CERNET2",
+      "asn": "24364"
+    },
+    {
+      "company_name": "CERNET2",
+      "asn": "138373"
+    },
+    {
+      "company_name": "MTN Uganda",
+      "asn": "20294"
+    },
+    {
+      "company_name": "Hero Telecom",
+      "asn": "328471"
+    }
+  ]
+}
