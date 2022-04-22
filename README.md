@@ -28,14 +28,16 @@ https://data.ris.ripe.net/rrc05/2021.09/
 
 https://data.ris.ripe.net/rrc06/2021.09/
 
+Two short examples on how to download all data from:
 
-```
-wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla https://data.ris.ripe.net/rrc00/2021.09/
-```
-
-```
-wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla http://archive.routeviews.org/route-views.amsix/bgpdata/2021.09/UPDATES/
-```
+- https://data.ris.ripe.net/rrc00/2021.09/
+  ```
+  wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla https://data.ris.ripe.net/rrc00/2021.09/
+  ```
+- http://archive.routeviews.org/route-views.amsix/bgpdata
+  ```
+  wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla http://archive.routeviews.org/route-views.amsix/bgpdata   /2021.09/UPDATES/
+  ```
 
 ## Requirements
 
