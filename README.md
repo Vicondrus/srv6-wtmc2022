@@ -36,7 +36,7 @@ Two short examples on how to download all data from:
   ```
 - http://archive.routeviews.org/route-views.amsix/bgpdata
   ```
-  wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla http://archive.routeviews.org/route-views.amsix/bgpdata   /2021.09/UPDATES/
+  wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla http://archive.routeviews.org/route-views.amsix/bgpdata/2021.09/UPDATES/
   ```
 
 ## Requirements
