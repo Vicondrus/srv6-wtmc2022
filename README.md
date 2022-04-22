@@ -9,15 +9,23 @@ Data can be downloaded from the BGP collectors' archives, found under the below 
 
 
 http://archive.routeviews.org/bgpdata/2021.09/UPDATES/
+
 http://archive.routeviews.org/route-views4/bgpdata/2021.09/UPDATES/
+
 http://archive.routeviews.org/route-views5/bgpdata/2021.09/UPDATES/
+
 http://archive.routeviews.org/route-views6/bgpdata/2021.09/UPDATES/
+
 http://archive.routeviews.org/route-views.amsix/bgpdata/2021.09/UPDATES/
 
 https://data.ris.ripe.net/rrc00/2021.09/
+
 https://data.ris.ripe.net/rrc01/2021.09/
+
 https://data.ris.ripe.net/rrc04/2021.09/
+
 https://data.ris.ripe.net/rrc05/2021.09/
+
 https://data.ris.ripe.net/rrc06/2021.09/
 
 
