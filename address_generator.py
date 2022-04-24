@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from random import getrandbits
 from ipaddress import IPv4Network, IPv4Address, IPv6Network, IPv6Address
 import argparse
