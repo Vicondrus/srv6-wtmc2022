@@ -5,7 +5,7 @@ This guide details the steps necessary to reproduce the main results of the pape
 
 ## Data
 
-### BGP
+### BGP Archives
 
 Data can be downloaded from the BGP collectors' archives, found under the below URLs.
 
@@ -40,6 +40,10 @@ Two short examples on how to download all data from:
   ```
   wget --no-clobber --convert-links --random-wait -r -p --level 1 -E -e robots=off -U mozilla http://archive.routeviews.org/route-views.amsix/bgpdata/2021.09/UPDATES/
   ```
+
+### Traceroute pcaps
+
+https://doi.org/10.17617/3.19HAUU
 
 ## Requirements
 
