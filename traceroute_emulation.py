@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from ipmininet.clean import cleanup
 from ipmininet.cli import IPCLI
 from ipmininet.ipnet import IPNet
